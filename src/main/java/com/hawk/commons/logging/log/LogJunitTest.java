@@ -1,4 +1,4 @@
-package com.hawk.commons_logging_log;
+package com.hawk.commons.logging.log;
 
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
